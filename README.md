@@ -2,4 +2,6 @@
 
 Step by step with git
 
-console.log("hello world").
+```javascript
+console.log("Hello World");
+```
